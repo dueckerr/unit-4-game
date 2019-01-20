@@ -1,0 +1,36 @@
+.jumbotron {
+    text-align: center;
+    color: brown;
+}
+.gem {
+    height: 100px;
+    width: 100px;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+}
+.col-lg-6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color: bisque;
+    color: brown;
+    line-height: 25px;
+}
+
+.col-lg-5 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color: teal;
+    color: black;
+    line-height: 25px;
+}
+body {
+    background-color: goldenrod; 
+}
+.col-lg-1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color: teal;
+    color: black;
+    line-height: 25px;
+}
